@@ -2,7 +2,7 @@
 (()=>{'use strict';
  const unit=new URLSearchParams(location.search).get('unit')==='curitiba'?'curitiba':'maringa';
  const scenes=window.IVIART_PANORAMAS[unit],ids=scenes.map(s=>unit+'_'+s.id),loading=document.querySelector('#loading');
- const facadeFov=()=>2*Math.atan(Math.tan(60*Math.PI/180)*Math.hypot(document.documentElement.clientWidth,window.innerHeight)/document.documentElement.clientWidth)*180/Math.PI;
+ const facadeFov=()=>2*Math.atan(Math.tan((document.documentElement.clientWidth<700?50:60)*Math.PI/180)*Math.hypot(document.documentElement.clientWidth,window.innerHeight)/document.documentElement.clientWidth)*180/Math.PI;
  let player,hotspots=[],ready=false,entrance=null,entered=false,targetView={pan:0,tilt:0,fov:100};
  const notify=(type,extra={})=>parent.postMessage({type,unit,...extra},location.origin);
  function openNode(id){if(!ids.includes(id))return;if(entrance?.isActive())entrance.cancel();player.openNext('{'+id+'}');}
