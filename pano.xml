@@ -1,0 +1,1754 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tour apprev="21010" start="maringa_node3" hassounds="0" appversion="7.1.11">
+  <panorama id="maringa_node3">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="184.01">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92264713" latitude="-23.43215889" title="Iviart" nodeid="maringa_node3" heading="184.01" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="0.0/0.0/108.2" skinid="ht_node" url="{maringa_node2}" description="" id="Point01" distance="12.2156" title="Iviart" tilt="0.15" pan="-0.45" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node2">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="180.165">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92265651" latitude="-23.43226841" title="Iviart" nodeid="maringa_node2" heading="180.165" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="" skinid="ht_node" url="{maringa_node4}" description="" id="Point01" distance="8.78332" title="Iviart" tilt="0.35" pan="-0.41" />
+      <hotspot target="-177.0/0.0/108.2" skinid="ht_node" url="{maringa_node3}" description="" id="Point02" distance="12.2156" title="Iviart" tilt="0.1" pan="-178.95" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node4">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="178.31">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92266322" latitude="-23.43234716" title="Iviart" nodeid="maringa_node4" heading="178.31" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="" skinid="ht_node" url="{maringa_node5}" description="" id="Point01" distance="9.74967" title="Iviart" tilt="-0.3" pan="-0.25" />
+      <hotspot target="-179.0/0.0/100.0" skinid="ht_node" url="{maringa_node2}" description="" id="Point02" distance="8.78332" title="Iviart" tilt="-0.14" pan="-181.21" />
+      <hotspot target="$fwd" skinid="ht_node" url="{maringa_node13}" description="" id="Point03" distance="9.04059" title="Iviart" tilt="0" pan="85.7017" />
+      <hotspot target="$fwd" skinid="ht_node" url="{maringa_node20}" description="" id="Point04" distance="10.1318" title="Iviart" tilt="0" pan="261.325" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node5">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="183.633">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92267126" latitude="-23.43243453" title="Iviart" nodeid="maringa_node5" heading="183.633" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="" skinid="ht_node" url="{maringa_node6}" description="" id="Point01" distance="7.12612" title="Iviart" tilt="0.4" pan="-0.15" />
+      <hotspot target="179.0/0.0/117.0" skinid="ht_node" url="{maringa_node4}" description="" id="Point02" distance="9.74967" title="Iviart" tilt="0.47" pan="-181.06" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node6">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="181.368">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92267529" latitude="-23.43249851" title="Iviart" nodeid="maringa_node6" heading="181.368" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="" skinid="ht_node" url="{maringa_node7}" description="" id="Point01" distance="8.21407" title="Iviart" tilt="0.3" pan="-0.35" />
+      <hotspot target="179.0/0.0/108.2" skinid="ht_node" url="{maringa_node5}" description="" id="Point02" distance="7.12612" title="Iviart" tilt="0.7" pan="-182.29" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node7">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="182.771">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92267797" latitude="-23.43257234" title="Iviart" nodeid="maringa_node7" heading="182.771" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="" skinid="ht_node" url="{maringa_node8}" description="" id="Point01" distance="8.21066" title="Iviart" tilt="0.71" pan="-0.35" />
+      <hotspot target="178.0/0.0/108.2" skinid="ht_node" url="{maringa_node6}" description="" id="Point02" distance="8.21407" title="Iviart" tilt="0.12" pan="-178.71" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node8">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="178.573">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92267931" latitude="-23.43264617" title="Iviart" nodeid="maringa_node8" heading="178.573" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="-179.0/0.0/108.2" skinid="ht_node" url="{maringa_node7}" description="" id="Point01" distance="8.21066" title="Iviart" tilt="0.4" pan="-179.38" />
+      <hotspot target="-94.0/0.0/117.0" skinid="ht_node" url="{maringa_node9}" description="" id="Point02" distance="8.86082" title="Iviart" tilt="0.11" pan="-251.38" />
+      <hotspot target="0.0/0.0/108.2" skinid="ht_node" url="{maringa_node15}" description="" id="Point03" distance="9.92823" title="Iviart" tilt="0" pan="-87.06" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node9">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="28.6677">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92259482" latitude="-23.43262772" title="Iviart" nodeid="maringa_node9" heading="28.6677" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="-77.0/0.0/108.2" skinid="ht_node" url="{maringa_node8}" description="" id="Point01" distance="8.86082" title="Iviart" tilt="0.42" pan="-244.5" />
+      <hotspot target="0.0/0.0/108.2" skinid="ht_node" url="{maringa_node10}" description="" id="Point02" distance="7.89583" title="Iviart" tilt="-0.14" pan="-357.83" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node10">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="-7.00951">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92258275" latitude="-23.43255758" title="Iviart" nodeid="maringa_node10" heading="-7.00951" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="" skinid="ht_node" url="{maringa_node11}" description="" id="Point01" distance="6.84729" title="Iviart" tilt="0" pan="-0.53" />
+      <hotspot target="-151.0/0.0/108.2" skinid="ht_node" url="{maringa_node9}" description="" id="Point02" distance="7.89583" title="Iviart" tilt="0.35" pan="-182.71" />
+      <hotspot target="-59.0/0.0/108.2" skinid="ht_node" url="{maringa_node14}" description="" id="Point03" distance="4.10673" title="Iviart" tilt="0.11" pan="-252.33" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node11">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92258007" latitude="-23.43249605" title="Iviart" nodeid="maringa_node11" heading="0" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="" skinid="ht_node" url="{maringa_node12}" description="" id="Point01" distance="8.07275" title="Iviart" tilt="0.1" pan="-0.86" />
+      <hotspot target="177.0/0.0/108.2" skinid="ht_node" url="{maringa_node10}" description="" id="Point02" distance="6.84729" title="Iviart" tilt="0" pan="-179.05" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node12">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92258007" latitude="-23.43242345" title="Iviart" nodeid="maringa_node12" heading="0" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="" skinid="ht_node" url="{maringa_node13}" description="" id="Point01" distance="8.09021" title="Iviart" tilt="0.2" pan="-359.54" />
+      <hotspot target="-179.0/0.0/108.2" skinid="ht_node" url="{maringa_node11}" description="" id="Point02" distance="8.07275" title="Iviart" tilt="0.23" pan="-181.18" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node13">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92257470" latitude="-23.43235086" title="Iviart" nodeid="maringa_node13" heading="0" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="179.0/0.0/108.2" skinid="ht_node" url="{maringa_node12}" description="" id="Point01" distance="8.09021" title="Iviart" tilt="-0.1" pan="-182.42" />
+      <hotspot target="$fwd" skinid="ht_node" url="{maringa_node4}" description="" id="Point02" distance="9.04059" title="Iviart" tilt="0" pan="87.3917" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node14">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92262298" latitude="-23.43255635" title="Iviart" nodeid="maringa_node14" heading="0" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="-79.0/0.0/117.0" skinid="ht_node" url="{maringa_node10}" description="" id="Point01" distance="4.10673" title="Iviart" tilt="0.47" pan="-266.35" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node15">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="-97.514">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92277587" latitude="-23.43263509" title="Iviart" nodeid="maringa_node15" heading="-97.514" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="" skinid="ht_node" url="{maringa_node16}" description="" id="Point01" distance="6.18134" title="Iviart" tilt="0.35" pan="-0.18" />
+      <hotspot target="107.0/0.0/108.2" skinid="ht_node" url="{maringa_node8}" description="" id="Point02" distance="9.92823" title="Iviart" tilt="-0.2" pan="-177.58" />
+      <hotspot target="0.0/0.0/108.2" skinid="ht_node" url="{maringa_node17}" description="" id="Point03" distance="10.9458" title="Iviart" tilt="-0.42" pan="-85.39" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node16">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="-180.495">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92283622" latitude="-23.43263018" title="Iviart" nodeid="maringa_node16" heading="-180.495" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="178.0/0.0/117.0" skinid="ht_node" url="{maringa_node15}" description="" id="Point01" distance="6.18134" title="Iviart" tilt="-0.11" pan="-276.46" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node17">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92277453" latitude="-23.43253666" title="Iviart" nodeid="maringa_node17" heading="0" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="" skinid="ht_node" url="{maringa_node18}" description="" id="Point01" distance="9.18438" title="Iviart" tilt="0.35" pan="-359.71" />
+      <hotspot target="95.0/0.0/108.2" skinid="ht_node" url="{maringa_node15}" description="" id="Point02" distance="10.9458" title="Iviart" tilt="0.23" pan="-187.09" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node18">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92276916" latitude="-23.43245421" title="Iviart" nodeid="maringa_node18" heading="0" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="" skinid="ht_node" url="{maringa_node19}" description="" id="Point01" distance="7.39917" title="Iviart" tilt="0.21" pan="-359.54" />
+      <hotspot target="178.0/0.0/108.2" skinid="ht_node" url="{maringa_node17}" description="" id="Point02" distance="9.18438" title="Iviart" tilt="0.28" pan="-181.42" />
+      <hotspot target="-114.0/0.0/117.0" skinid="ht_node" url="{maringa_node22}" description="" id="Point03" distance="4.41341" title="Iviart" tilt="0.1" pan="-304.32" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node19">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node19/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92276514" latitude="-23.43238777" title="Iviart" nodeid="maringa_node19" heading="0" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="" skinid="ht_node" url="{maringa_node20}" description="" id="Point01" distance="5.75782" title="Iviart" tilt="0.51" pan="-355.6" />
+      <hotspot target="-179.0/0.0/117.0" skinid="ht_node" url="{maringa_node18}" description="" id="Point02" distance="7.39917" title="Iviart" tilt="0.47" pan="-182.05" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node20">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node20/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92276179" latitude="-23.43233608" title="Iviart" nodeid="maringa_node20" heading="0" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="-135.8/-5.5/100.0" skinid="ht_node" url="{maringa_node21}" description="" id="Point01" distance="8.56678" title="Iviart" tilt="-0.27" pan="-299.02" />
+      <hotspot target="180.0/0.0/108.2" skinid="ht_node" url="{maringa_node19}" description="" id="Point02" distance="5.75782" title="Iviart" tilt="-0.42" pan="-180.47" />
+      <hotspot target="$fwd" skinid="ht_node" url="{maringa_node4}" description="" id="Point03" distance="10.1318" title="Iviart" tilt="0" pan="-96.9846" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node21">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node21/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="177.044">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92279934" latitude="-23.43240499" title="Iviart" nodeid="maringa_node21" heading="177.044" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="-115.0/0.0/117.0" skinid="ht_node" url="{maringa_node20}" description="" id="Point01" distance="8.56678" title="Iviart" tilt="0.61" pan="-296.56" />
+      <hotspot target="0.0/0.0/108.2" skinid="ht_node" url="{maringa_node22}" description="" id="Point02" distance="7.69935" title="Iviart" tilt="0.3" pan="-8.04" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node22">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node22/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="184.656">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92280672" latitude="-23.43247390" title="Iviart" nodeid="maringa_node22" heading="184.656" customnodeid="" comment="" tags="3-Panoramicas" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="-121.0/0.0/100.0" skinid="ht_node" url="{maringa_node18}" description="" id="Point01" distance="4.41341" title="Iviart" tilt="0.15" pan="-305.91" />
+      <hotspot target="0.0/0.0/108.2" skinid="ht_node" url="{maringa_node23}" description="" id="Point02" distance="28.2566" title="Iviart" tilt="0.31" pan="-26.88" />
+      <hotspot target="$fwd" skinid="ht_node" url="{maringa_node21}" description="" id="Point03" distance="7.69935" title="Iviart" tilt="0" pan="179.044" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node23">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node23/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="185.931">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92284024" latitude="-23.43272615" title="Iviart" nodeid="maringa_node23" heading="185.931" customnodeid="" comment="" tags="sup" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="176.0/0.0/108.2" skinid="ht_node" url="{maringa_node22}" description="" id="Point01" distance="28.2566" title="Iviart" tilt="0.35" pan="-170.54" />
+      <hotspot target="-52.0/0.0/117.0" skinid="ht_node" url="{maringa_node24}" description="" id="Point02" distance="8.04817" title="Iviart" tilt="0.22" pan="-300.82" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node24">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node24/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="93.3879">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92276514" latitude="-23.43274830" title="Iviart" nodeid="maringa_node24" heading="93.3879" customnodeid="" comment="" tags="sup" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="4.0/0.0/108.2" skinid="ht_node" url="{maringa_node25}" description="" id="Point01" distance="9.85243" title="Iviart" tilt="0.14" pan="-347.81" />
+      <hotspot target="-120.0/0.0/100.0" skinid="ht_node" url="{maringa_node23}" description="" id="Point02" distance="8.04817" title="Iviart" tilt="1.66893e-08" pan="-201.73" />
+      <hotspot target="94.0/0.0/100.0" skinid="ht_node" url="{maringa_node31}" description="" id="Point03" distance="5.19881" title="Iviart" tilt="0.04" pan="-265.28" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node25">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node25/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="82.6247">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92266858" latitude="-23.43274707" title="Iviart" nodeid="maringa_node25" heading="82.6247" customnodeid="" comment="" tags="sup" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="0.0/0.0/108.2" skinid="ht_node" url="{maringa_node26}" description="" id="Point01" distance="9.52756" title="Iviart" tilt="0.23" pan="-334.56" />
+      <hotspot target="-175.0/0.0/108.2" skinid="ht_node" url="{maringa_node24}" description="" id="Point02" distance="9.85243" title="Iviart" tilt="0.47" pan="-195.6" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node26">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node26/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="73.6508">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92259214" latitude="-23.43269785" title="Iviart" nodeid="maringa_node26" heading="73.6508" customnodeid="" comment="" tags="sup" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="" skinid="ht_node" url="{maringa_node27}" description="" id="Point01" distance="2.33779" title="Iviart" tilt="-0.12" pan="-349.05" />
+      <hotspot target="-151.0/0.0/108.2" skinid="ht_node" url="{maringa_node25}" description="" id="Point02" distance="9.52756" title="Iviart" tilt="0.35" pan="-168.13" />
+      <hotspot target="162.0/0.0/100.0" skinid="ht_node" url="{maringa_node32}" description="" id="Point03" distance="6.86832" title="Iviart" tilt="-0.51" pan="-211.62" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node27">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node27/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="85.6788">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92257068" latitude="-23.43269048" title="Iviart" nodeid="maringa_node27" heading="85.6788" customnodeid="" comment="" tags="sup" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="-171.0/0.0/108.2" skinid="ht_node" url="{maringa_node26}" description="" id="Point01" distance="2.33779" title="Iviart" tilt="0.3" pan="-165.8" />
+      <hotspot target="0.0/0.0/108.2" skinid="ht_node" url="{maringa_node28}" description="" id="Point02" distance="7.43496" title="Iviart" tilt="0" pan="-211.28" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node28">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node28/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="-84.6469">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92264243" latitude="-23.43267878" title="Iviart" nodeid="maringa_node28" heading="-84.6469" customnodeid="" comment="" tags="sup" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="" skinid="ht_node" url="{maringa_node29}" description="" id="Point01" distance="8.5585" title="Iviart" tilt="0.47" pan="-359.24" />
+      <hotspot target="-19.0/0.0/100.0" skinid="ht_node" url="{maringa_node27}" description="" id="Point02" distance="7.43496" title="Iviart" tilt="0.55" pan="-180.49" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node29">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node29/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="-88.1444">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92272625" latitude="-23.43267571" title="Iviart" nodeid="maringa_node29" heading="-88.1444" customnodeid="" comment="" tags="sup" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="" skinid="ht_node" url="{maringa_node30}" description="" id="Point01" distance="6.0302" title="Iviart" tilt="0.3" pan="-1.57" />
+      <hotspot target="180.0/0.0/117.0" skinid="ht_node" url="{maringa_node28}" description="" id="Point02" distance="8.5585" title="Iviart" tilt="0.82" pan="-181.47" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node30">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node30/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="-94.6698">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92278526" latitude="-23.43267263" title="Iviart" nodeid="maringa_node30" heading="-94.6698" customnodeid="" comment="" tags="sup" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="-43.0/0.0/108.2" skinid="ht_node" url="{maringa_node31}" description="" id="Point01" distance="3.77874" title="Iviart" tilt="0.4" pan="-228.76" />
+      <hotspot target="178.0/0.0/108.2" skinid="ht_node" url="{maringa_node29}" description="" id="Point02" distance="6.0302" title="Iviart" tilt="0.97" pan="-182.95" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node31">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node31/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="86.6178">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92276581" latitude="-23.43270155" title="Iviart" nodeid="maringa_node31" heading="86.6178" customnodeid="" comment="" tags="sup" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="0.0/0.0/108.2" skinid="ht_node" url="{maringa_node32}" description="" id="Point01" distance="10.9262" title="Iviart" tilt="0.12" pan="-0.9" />
+      <hotspot target="0.0/0.0/117.0" skinid="ht_node" url="{maringa_node30}" description="" id="Point02" distance="3.77874" title="Iviart" tilt="0.03" pan="-217.6" />
+      <hotspot target="-85.0/0.0/117.0" skinid="ht_node" url="{maringa_node24}" description="" id="Point03" distance="5.19881" title="Iviart" tilt="-0.05" pan="-86.01" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="maringa_node32">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/maringa_node32/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="81.7299">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="Iviart Estofados&#10;" source="" description="Iviart Estofados&#10;" info="" longitude="-51.92265919" latitude="-23.43269232" title="Iviart" nodeid="maringa_node32" heading="81.7299" customnodeid="" comment="" tags="sup" datetime="Iviart Estofados&#10;" author="Iviart Estofados&#10;" />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+      <hotspot target="179.0/0.0/117.0" skinid="ht_node" url="{maringa_node31}" description="" id="Point01" distance="10.9262" title="Iviart" tilt="0" pan="-196.22" />
+      <hotspot target="-23.0/0.0/117.0" skinid="ht_node" url="{maringa_node26}" description="" id="Point02" distance="6.86832" title="Iviart" tilt="-3.49" pan="-355.4" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node1">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node1" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node2">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node2" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node3">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node3" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node4">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node4" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node5">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node5" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node6">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node6" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node7">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node7" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node8">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node8" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node9">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node9" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node10">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node10" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node11">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node11" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node12">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node12" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node13">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node13" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node14">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node14" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node15">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node15" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node16">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node16" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node17">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node17" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node18">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node18" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node19">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node19/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node19" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node20">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node20/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node20" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node21">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node21/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node21" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node22">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node22/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node22" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node23">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node23/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node23" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node24">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node24/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node24" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node25">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node25/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node25" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node26">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node26/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node26" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node27">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node27/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node27" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node28">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node28/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node28" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node29">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node29/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node29" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node30">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node30/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node30" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node31">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node31/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node31" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node32">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node32/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node32" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node33">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node33/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node33" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node34">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node34/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node34" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node35">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node35/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node35" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <panorama id="curitiba_node36">
+    <input levelingpitch="0" width="1024" leveltileurl="tiles/curitiba_node36/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1024" leveltilesize="510" levelingroll="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" preload="0" width="1024" height="1024" />
+      <level predecode="0" preload="0" width="512" height="512" />
+      <level predecode="1" preload="1" width="256" height="256" />
+      <preview color="0x808080" strip="1" />
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0" />
+      <flyin projection="9" pan="0" fov="170" tilt="-90" />
+      <min pan="0" fovpixel="2" tilt="-90" />
+      <max fovstereographic="330" fovfisheye="360" pan="360" fov="140" scaletofit="0" tilt="90" />
+    </view>
+    <userdata copyright="" source="" description="Iviart Estofados" info="" longitude="-49.29416124" latitude="-25.41714129" title="Iviart" nodeid="curitiba_node36" heading="0" customnodeid="" comment="" tags="editadas" datetime="" author="MG TOUR " />
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label borderalpha="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180" height="20" wordwrap="1" enabled="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundalpha="1" textalpha="1" />
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" />
+    </hotspots>
+    <media />
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomfov="40" zoomin="0" enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" delay="none" />
+    <autorotate horizonfromdefview="0" speed="0.040" nodedelay="0.00" useanimation="1" noderandom="1" enabled="1" startloaded="0" nodefilter="" delay="5.00" returntohorizon="0.000" />
+    <flyintransition enabled="1" speed="2.00" />
+    <animation syncanimationwithvideo="0" useinautorotation="1" clipsrandom="0" animsequence="Animation01" />
+    <control lockedkeyboardzoom="0" hideabout="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextvr="1" speedwheel="1" rubberband="0" invertwheel="0" invertcontrol="1" />
+  </panorama>
+  <masternode>
+    <userdata author="" copyright="" description="" comment="" tags="" title="Iviart" />
+    <animationsequences>
+      <sequence title="Animation01" />
+    </animationsequences>
+  </masternode>
+</tour>
