@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.11/21010
 // Filename: IVIART-HOTSPOTS.ggsk
-// Generated 2026-11-18T18:00:08
+// Generated 2026-11-18T18:26:28
 
 function pano2vrSkin(player,base) {
 	player.addVariable('iviart_pulso', 2, false, { ignoreInState: 0  });
@@ -164,7 +164,7 @@ function pano2vrSkin(player,base) {
 				}
 			}
 			me._iviart_timer.ggTimestamp=skin.ggCurrentTime;
-			me._iviart_timer.ggTimeout=1500;
+			me._iviart_timer.ggTimeout=400;
 		});
 		player.addListener('varchanged_iviart_pulso', function(event) {
 			if (hotspotTemplates.hasOwnProperty('ht_node')) {
@@ -287,18 +287,18 @@ function pano2vrSkin(player,base) {
 			}
 			if (me._iviart_anel.ggCurrentLogicStateScaling != newLogicStateScaling) {
 				me._iviart_anel.ggCurrentLogicStateScaling = newLogicStateScaling;
-				me._iviart_anel.style.transition='transform 1400ms ease 0ms, opacity 1400ms ease 0ms';
+				me._iviart_anel.style.transition='transform 650ms ease 0ms, opacity 650ms ease 0ms';
 				if (me._iviart_anel.ggCurrentLogicStateScaling == 0) {
 					me._iviart_anel.ggParameter.sx = 1.6;
 					me._iviart_anel.ggParameter.sy = 1.6;
 					me._iviart_anel.style.transform=parameterToTransform(me._iviart_anel.ggParameter);
-					setTimeout(function() {skin.updateSize(me._iviart_anel);}, 1450);
+					setTimeout(function() {skin.updateSize(me._iviart_anel);}, 700);
 				}
 				else {
 					me._iviart_anel.ggParameter.sx = 1;
 					me._iviart_anel.ggParameter.sy = 1;
 					me._iviart_anel.style.transform=parameterToTransform(me._iviart_anel.ggParameter);
-					setTimeout(function() {skin.updateSize(me._iviart_anel);}, 1450);
+					setTimeout(function() {skin.updateSize(me._iviart_anel);}, 700);
 				}
 			}
 		}
@@ -316,7 +316,7 @@ function pano2vrSkin(player,base) {
 			}
 			if (me._iviart_anel.ggCurrentLogicStateAlpha != newLogicStateAlpha) {
 				me._iviart_anel.ggCurrentLogicStateAlpha = newLogicStateAlpha;
-				me._iviart_anel.style.transition='transform 1400ms ease 0ms, opacity 1400ms ease 0ms';
+				me._iviart_anel.style.transition='transform 650ms ease 0ms, opacity 650ms ease 0ms';
 				if (me._iviart_anel.ggCurrentLogicStateAlpha == 0) {
 					me._iviart_anel.style.visibility=me._iviart_anel.ggVisible?'inherit':'hidden';
 					me._iviart_anel.style.opacity=0.75;
